@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Bookstore Management- (Project2).props" />
+</Project>
